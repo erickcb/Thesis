@@ -1,0 +1,61 @@
+\begin{thebibliography}{10}
+
+\bibitem{burch1992symbolic}
+Jerry~R Burch, Edmund~M Clarke, Kenneth~L McMillan, David~L Dill, and Lain-Jinn
+  Hwang.
+\newblock Symbolic model checking: 1020 states and beyond.
+\newblock {\em Information and computation}, 98(2):142--170, 1992.
+
+\bibitem{clarke2001bounded}
+Edmund Clarke, Armin Biere, Richard Raimi, and Yunshan Zhu.
+\newblock Bounded model checking using satisfiability solving.
+\newblock {\em Formal methods in system design}, 19(1):7--34, 2001.
+
+\bibitem{clarke1986automatic}
+Edmund~M. Clarke, E.~Allen Emerson, and A.~Prasad Sistla.
+\newblock Automatic verification of finite-state concurrent systems using
+  temporal logic specifications.
+\newblock {\em ACM Transactions on Programming Languages and Systems (TOPLAS)},
+  8(2):244--263, 1986.
+
+\bibitem{kreutz2015software}
+Diego Kreutz, Fernando~MV Ramos, Paulo~Esteves Verissimo, Christian~Esteve
+  Rothenberg, Siamak Azodolmolky, and Steve Uhlig.
+\newblock Software-defined networking: A comprehensive survey.
+\newblock {\em Proceedings of the IEEE}, 103(1):14--76, 2015.
+
+\bibitem{kroening2014cbmc}
+Daniel Kroening and Michael Tautschnig.
+\newblock Cbmc--c bounded model checker.
+\newblock In {\em International Conference on Tools and Algorithms for the
+  Construction and Analysis of Systems}, pages 389--391. Springer, 2014.
+
+\bibitem{li2013software}
+Chung-Sheng Li and Wanjiun Liao.
+\newblock Software defined networks.
+\newblock {\em IEEE Communications Magazine}, 51(2):113--114, 2013.
+
+\bibitem{mckeown2008openflow}
+Nick McKeown, Tom Anderson, Hari Balakrishnan, Guru Parulkar, Larry Peterson,
+  Jennifer Rexford, Scott Shenker, and Jonathan Turner.
+\newblock Openflow: enabling innovation in campus networks.
+\newblock {\em ACM SIGCOMM Computer Communication Review}, 38(2):69--74, 2008.
+
+\bibitem{park2015software}
+Hyungbae Park, Sejun Song, Baek-Young Choi, and Henry Zhu.
+\newblock Software-defined networking (sdn) control message classification,
+  verification, and optimization system.
+\newblock In {\em Software Reliability Engineering Workshops (ISSREW), 2015
+  IEEE International Symposium on}, pages 25--28. IEEE, 2015.
+
+\bibitem{podymov2013uppaal}
+Vladislav Podymov and Uliana Popesko.
+\newblock Uppaal-based software-defined network verification.
+\newblock In {\em Tools \& Methods of Program Analysis (TMPA), 2013}, pages
+  9--14. IEEE, 2013.
+
+\bibitem{openflow2011openflow}
+OpenFlow~Switch Specification.
+\newblock Openflow switch specification version 1.1.0, 2011.
+
+\end{thebibliography}

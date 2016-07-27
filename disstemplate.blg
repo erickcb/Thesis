@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: disstemplate.aux
+A level-1 auxiliary file: chapter-introduction.aux
+A level-1 auxiliary file: chapter-appendix1.aux
+A level-1 auxiliary file: chapter-appendix2.aux
+A level-1 auxiliary file: chapter-appendix3.aux
+The style file: plain.bst
+Database file #1: diss.bib
+You've used 10 entries,
+            2118 wiz_defined-function locations,
+            567 strings with 6097 characters,
+and the built_in function-call counts, 4002 in all, are:
+= -- 398
+> -- 214
+< -- 3
++ -- 84
+- -- 74
+* -- 305
+:= -- 658
+add.period$ -- 32
+call.type$ -- 10
+change.case$ -- 67
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 136
+empty$ -- 293
+format.name$ -- 74
+if$ -- 833
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 9
+newline$ -- 52
+num.names$ -- 20
+pop$ -- 69
+preamble$ -- 1
+purify$ -- 57
+quote$ -- 0
+skip$ -- 97
+stack$ -- 0
+substring$ -- 254
+swap$ -- 34
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 40
+warning$ -- 0
+while$ -- 41
+width$ -- 12
+write$ -- 112
